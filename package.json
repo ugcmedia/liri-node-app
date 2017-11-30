@@ -1,0 +1,16 @@
+{
+  "name": "liri-master",
+  "version": "1.0.0",
+  "description": "liri",
+  "main": "liri.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Stephane",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  }
+}

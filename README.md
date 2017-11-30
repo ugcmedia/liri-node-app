@@ -1,1 +1,1 @@
-# liri-node-app
+npm install => node liri.js <command>
